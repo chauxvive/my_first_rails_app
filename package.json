@@ -1,0 +1,7 @@
+{
+  "name": "my_first_rails_app",
+  "private": true,
+  "dependencies": {
+    "sqlite3": "^4.0.4"
+  }
+}
